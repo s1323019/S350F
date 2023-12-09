@@ -12,4 +12,4 @@ studnet AC : s1234511 password:1
 !['image'](follow/follow7.png)  
 !['image'](follow/follow8.png)  
 當完成後  
-!['image'](follow/follow9.png)  
+!['image'](follow/follow9.jpg)  
