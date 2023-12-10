@@ -8,13 +8,13 @@ requirement:
 Need to download Glassfish510 as a server  
 https://www.eclipse.org/downloads/download.php?file=/glassfish/glassfish-5.1.0.zip  
 Then put it under the project file  
-
+  
 2.  
-Need to create a database called s350f in MySql
-Then import s350f.sql 
-database url should be jdbc:mysql://localhost:3306/s350f  
-database User must be root
-database Password must be no password  
+Need to create a database called s350f in MySql  
+Then import s350f.sql  
+database url should be jdbc:mysql://localhost:3306/s350f   
+database User must be root  
+database Password must be no password    
 
 3.  
 Need to download netbeans  
