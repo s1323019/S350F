@@ -4,6 +4,7 @@ teacher AC  ID: t1234567 password:123456
 it Staff AC  ID: i1234567 password:123456  
 
 需要下載Glassfish510作為伺服器  
+https://www.eclipse.org/downloads/download.php?file=/glassfish/glassfish-5.1.0.zip  
 MySql 
 
 由於使用jsp並且在netbeans中進行codeing  
