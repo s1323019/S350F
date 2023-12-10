@@ -3,7 +3,7 @@ studnet AC  ID: s1234511 password:1
 teacher AC  ID: t1234567 password:123456  
 it Staff AC  ID: i1234567 password:123456  
 
-需求:
+requirement:  
 1.  
 Need to download Glassfish510 as a server  
 https://www.eclipse.org/downloads/download.php?file=/glassfish/glassfish-5.1.0.zip  
