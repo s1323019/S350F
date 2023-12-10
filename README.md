@@ -1,5 +1,5 @@
 # S350F
-studnet AC  ID: s1234511 password:1  
+studnet AC  ID: s1234511 password:1   
 teacher AC  ID: t1234567 password:123456  
 it Staff AC  ID: i1234567 password:123456  
 
