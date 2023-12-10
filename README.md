@@ -13,7 +13,7 @@ Then put it under the project file
 Need to create a database called s350f in MySql  
 Then import s350f.sql  
 database url should be jdbc:mysql://localhost:3306/s350f   
-database User must be root  
+database User must be named root   
 database Password must be no password    
 
 3.  
