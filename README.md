@@ -5,21 +5,22 @@ it Staff AC  ID: i1234567 password:123456
 
 需求:
 1.  
-需要下載Glassfish510作為伺服器  
+Need to download Glassfish510 as a server  
 https://www.eclipse.org/downloads/download.php?file=/glassfish/glassfish-5.1.0.zip  
-然後放在project文件底下  
+Then put it under the project file  
 
 2.  
-需要在MySql中創建一個s350f database  
-然後匯入s350f.sql  
-database url應該要係 jdbc:mysql://localhost:3306/s350f  
-database User 要係 root  
-database Password 不需要密碼  
+Need to create a database called s350f in MySql
+Then import s350f.sql 
+database url should be jdbc:mysql://localhost:3306/s350f  
+database User must be root
+database Password must be no password  
 
-
-
-由於使用jsp並且在netbeans中進行codeing  
-第一次使用netbeans開啟檔案時有機會遇到伺服器問題可以跟住圖片加入伺服器  
+3.  
+Need to download netbeans  
+As an IDE to start a project  
+ 
+When you use Netbeans to open a file for the first time, you may encounter server problems. You can follow the image and add it to the server    
 !['image'](follow/follow1.png)  
 !['image'](follow/follow2.png)  
 !['image'](follow/follow3.png)  
@@ -28,5 +29,5 @@ database Password 不需要密碼
 !['image'](follow/follow6.png)  
 !['image'](follow/follow7.png)  
 !['image'](follow/follow8.png)  
-當完成後  
+when finished   
 !['image'](follow/follow9.jpg)  
